@@ -42,7 +42,7 @@ const portfolioContent = {
     "دبلوم عالي من المركز القومي للدراسات الدبلوماسية - وزارة الخارجية السودانية"
   ],
   certificates: [
-    { id: 1, title: 'شهادة في تكنولوجيا التعليم', thumbnailUrl: 'https://via.placeholder.com/400x250/bfa06b/263238?text=Certificate', fullUrl: 'https://via.placeholder.com/1200x800/bfa06b/263238?text=Certificate' },
+    { id: 1, title: 'دكتوراه علم اللغة التطبيقي', thumbnailUrl: 'https://i.postimg.cc/XNRGkVfC/shhadt-aldktwrah-ʿrby.jpg', fullUrl: 'https://i.postimg.cc/XNRGkVfC/shhadt-aldktwrah-ʿrby.jpg' },
     { id: 2, title: 'شهادة إعداد المعلمين', thumbnailUrl: 'https://via.placeholder.com/400x250/bfa06b/263238?text=Certificate', fullUrl: 'https://via.placeholder.com/1200x800/bfa06b/263238?text=Certificate' },
     { id: 3, title: 'شهادة الدراسات الدبلوماسية', thumbnailUrl: 'https://via.placeholder.com/400x250/bfa06b/263238?text=Certificate', fullUrl: 'https://via.placeholder.com/1200x800/bfa06b/263238?text=Certificate' },
   ]
