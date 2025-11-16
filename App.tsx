@@ -46,6 +46,12 @@ const portfolioContent = {
     { id: 2, title: 'الدبلوم العامة في الدعوة و الامامة و الخطابة', thumbnailUrl: 'https://i.postimg.cc/tT720h4y/aldblwm-alʿamt-fy-aldʿwt-w-alamamt.jpg', fullUrl: 'https://i.postimg.cc/tT720h4y/aldblwm-alʿamt-fy-aldʿwt-w-alamamt.jpg' },
     { id: 3, title: 'شهادة خبرة من جامعة كرري', thumbnailUrl: 'https://i.postimg.cc/JhFjkSMp/shhadt-khbrt-mn-jamʿt-krry.jpg', fullUrl: 'https://i.postimg.cc/JhFjkSMp/shhadt-khbrt-mn-jamʿt-krry.jpg' },
      { id: 4, title: 'شهادة خبرة من جامعة افريقيا العالمية', thumbnailUrl: 'https://i.postimg.cc/3rXD8k4s/shhadt-khbrt-mn-jamʿt-afryqya-alʿalmyt.jpg', fullUrl: 'https://i.postimg.cc/3rXD8k4s/shhadt-khbrt-mn-jamʿt-afryqya-alʿalmyt.jpg' },
+      { id: 5, title: 'الدبلوم العالي في تعليم اللغة العربية لغير الناطقين بها', thumbnailUrl: 'https://i.postimg.cc/5y6GmhC3/aldblwm-alʿaly-ltʿlym-allght-alʿrbyt-lghyr-alnatqyn-bha.jpg', fullUrl: 'https://i.postimg.cc/5y6GmhC3/aldblwm-alʿaly-ltʿlym-allght-alʿrbyt-lghyr-alnatqyn-bha.jpg' },
+    { id:6, title: 'الماجستير في تعليم اللغة العربية لغير الناطقين بها', thumbnailUrl: 'https://i.postimg.cc/3xRB0X2x/almajstyr-fy-tʿlym-allght-alʿrbyt-lghyr-alnatqyn-bha.jpg', fullUrl: 'https://i.postimg.cc/3xRB0X2x/almajstyr-fy-tʿlym-allght-alʿrbyt-lghyr-alnatqyn-bha.jpg' },
+    { id:7, title: 'بكالريوس في تعليم اللغة العربية لغير الناطقين بها', thumbnailUrl: 'https://i.postimg.cc/htzmqp9x/bkalryws-fy-tʿlym-allght-alʿrbyt-lghyr-alnatqyn-bha.jpg', fullUrl: 'https://i.postimg.cc/htzmqp9x/bkalryws-fy-tʿlym-allght-alʿrbyt-lghyr-alnatqyn-bha.jpg' },
+    { id:8, title: 'بكالريوس في تعليم اللغة العربية لغير الناطقين بها', thumbnailUrl: 'https://i.postimg.cc/htzmqp9x/bkalryws-fy-tʿlym-allght-alʿrbyt-lghyr-alnatqyn-bha.jpg', fullUrl: 'https://i.postimg.cc/htzmqp9x/bkalryws-fy-tʿlym-allght-alʿrbyt-lghyr-alnatqyn-bha.jpg' },
+  ]
+  ]
   ]
 };
 
