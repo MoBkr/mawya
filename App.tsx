@@ -43,8 +43,9 @@ const portfolioContent = {
   ],
   certificates: [
     { id: 1, title: 'دكتوراه علم اللغة التطبيقي', thumbnailUrl: 'https://i.postimg.cc/XNRGkVfC/shhadt-aldktwrah-ʿrby.jpg', fullUrl: 'https://i.postimg.cc/XNRGkVfC/shhadt-aldktwrah-ʿrby.jpg' },
-    { id: 2, title: 'شهادة إعداد المعلمين', thumbnailUrl: 'https://via.placeholder.com/400x250/bfa06b/263238?text=Certificate', fullUrl: 'https://via.placeholder.com/1200x800/bfa06b/263238?text=Certificate' },
-    { id: 3, title: 'شهادة الدراسات الدبلوماسية', thumbnailUrl: 'https://via.placeholder.com/400x250/bfa06b/263238?text=Certificate', fullUrl: 'https://via.placeholder.com/1200x800/bfa06b/263238?text=Certificate' },
+    { id: 2, title: 'الدبلوم العامة في الدعوة و الامامة و الخطابة', thumbnailUrl: 'https://i.postimg.cc/tT720h4y/aldblwm-alʿamt-fy-aldʿwt-w-alamamt.jpg', fullUrl: 'https://i.postimg.cc/tT720h4y/aldblwm-alʿamt-fy-aldʿwt-w-alamamt.jpg' },
+    { id: 3, title: 'شهادة خبرة من جامعة كرري', thumbnailUrl: 'https://i.postimg.cc/JhFjkSMp/shhadt-khbrt-mn-jamʿt-krry.jpg', fullUrl: 'https://i.postimg.cc/JhFjkSMp/shhadt-khbrt-mn-jamʿt-krry.jpg' },
+     { id: 4, title: 'شهادة خبرة من جامعة افريقيا العالمية', thumbnailUrl: 'https://i.postimg.cc/3rXD8k4s/shhadt-khbrt-mn-jamʿt-afryqya-alʿalmyt.jpg', fullUrl: 'https://i.postimg.cc/3rXD8k4s/shhadt-khbrt-mn-jamʿt-afryqya-alʿalmyt.jpg' },
   ]
 };
 
